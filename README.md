@@ -2,12 +2,12 @@
 
 ### 클린코드
 
-1. https://www.zigae.com/avoid-conditions
+1. (프론트엔드 클린코드 조건문 지양) https://www.zigae.com/avoid-conditions
 
 ### React
 
-1. (useEffect) https://velog.io/@jay/you-might-need-useEffect-diet
-2. (setState 비동기) https://velog.io/@jay/setStateisnotasync
+1. (useEffect 잘못 쓰고 계신겁니다) https://velog.io/@jay/you-might-need-useEffect-diet
+2. (콘솔로그가 이상한건 setState 비동기 함수여서가 아닙니다) https://velog.io/@jay/setStateisnotasync
 
 ### TypeScript
 
