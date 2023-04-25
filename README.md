@@ -8,6 +8,8 @@
 
 1. (useEffect 잘못 쓰고 계신겁니다) https://velog.io/@jay/you-might-need-useEffect-diet
 2. (콘솔로그가 이상한건 setState 비동기 함수여서가 아닙니다) https://velog.io/@jay/setStateisnotasync
+3. (useEffect 꼭 필요할 때만 쓰자) https://velog.io/@pcg0527/useEffect-%EA%BC%AD-%ED%95%84%EC%9A%94%ED%95%A0-%EB%95%8C%EB%A7%8C-%EC%93%B0%EC%9E%90/
+4. (useMemo를 사용하는 것을 당장 멈추세요!) https://velog.io/@lky5697/stop-using-usememo-now
 
 ### TypeScript
 
