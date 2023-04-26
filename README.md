@@ -10,6 +10,7 @@
 2. (콘솔로그가 이상한건 setState 비동기 함수여서가 아닙니다) https://velog.io/@jay/setStateisnotasync
 3. (useEffect 꼭 필요할 때만 쓰자) https://velog.io/@pcg0527/useEffect-%EA%BC%AD-%ED%95%84%EC%9A%94%ED%95%A0-%EB%95%8C%EB%A7%8C-%EC%93%B0%EC%9E%90/
 4. (useMemo를 사용하는 것을 당장 멈추세요!) https://velog.io/@lky5697/stop-using-usememo-now
+5. (리액트 훅은 왜 최상단에서만 동작할까?) https://velog.io/@alstnsrl98/React-hook%EC%9D%80-%EC%99%9C-%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8-%EC%B5%9C%EC%83%81%EB%8B%A8%EC%97%90%EC%84%9C%EB%A7%8C-%EB%8F%99%EC%9E%91%ED%95%A0%EA%B9%8C
 
 ### TypeScript
 
