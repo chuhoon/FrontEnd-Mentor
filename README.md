@@ -22,6 +22,7 @@
 
 1. (Rest) https://velog.io/@poiu0329/JavaScript-Rest-%EB%AC%B8%EB%B2%95-feat.-React-props
 2. (Lodash) https://inpa.tistory.com/entry/LODASH-%F0%9F%93%9A-Lodash-vs-ES6-%EC%84%A4%EC%B9%98-%EC%9B%90%EB%A6%AC#lodash_vs_es6_%EB%B9%84%EA%B5%90
+3. (자바스크립트 클린코드 작성법) https://seaweedisland.tistory.com/215
 
 ### 대학생 연합 동이리 및 교육 프로그램 정보
 1. https://velog.io/@prayme/%EB%8C%80%ED%95%99%EC%83%9D-IT-%EC%97%B0%ED%95%A9-%EB%8F%99%EC%95%84%EB%A6%AC-%EC%A0%95%EB%B3%B4-%EB%AA%A8%EC%9D%8C-feat.-RUFree-%EC%A3%BC%EB%8B%88%EC%96%B4
