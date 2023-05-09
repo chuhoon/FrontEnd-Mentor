@@ -13,6 +13,7 @@
 5. [리액트 훅은 왜 최상단에서만 동작할까?](https://velog.io/@alstnsrl98/React-hook%EC%9D%80-%EC%99%9C-%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8-%EC%B5%9C%EC%83%81%EB%8B%A8%EC%97%90%EC%84%9C%EB%A7%8C-%EB%8F%99%EC%9E%91%ED%95%A0%EA%B9%8C)
 6. [좋은 컴포넌트를 설계하는 법](https://velog.io/@jellyjw/%EC%A2%8B%EC%9D%80-%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8%EB%A5%BC-%EC%84%A4%EA%B3%84%ED%95%98%EA%B8%B0-%EC%9C%84%ED%95%B4-%EA%B3%A0%EB%A0%A4%ED%95%B4%EC%95%BC-%ED%95%A0-6%EA%B0%80%EC%A7%80feat.-chatGPT)
 7. [Custom Hook](https://usehooks.com/)
+8. [훅은 생각하고 만드세요 제발](https://www.d0dam.com/blog/react/react-hooks/make-hooks-with-think)
 
 ### TypeScript
 
