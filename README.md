@@ -3,6 +3,7 @@
 ### 클린코드
 
 1. [프론트엔드 클린코드 조건문 지양](https://www.zigae.com/avoid-conditions)
+2. [촉촉한 코드, 건조한 코드](https://velog.io/@gomjellie/The-Wet-Codebase)
 
 ### React
 
