@@ -15,6 +15,7 @@
 6. [좋은 컴포넌트를 설계하는 법](https://velog.io/@jellyjw/%EC%A2%8B%EC%9D%80-%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8%EB%A5%BC-%EC%84%A4%EA%B3%84%ED%95%98%EA%B8%B0-%EC%9C%84%ED%95%B4-%EA%B3%A0%EB%A0%A4%ED%95%B4%EC%95%BC-%ED%95%A0-6%EA%B0%80%EC%A7%80feat.-chatGPT)
 7. [Custom Hook](https://usehooks.com/)
 8. [훅은 생각하고 만드세요 제발](https://www.d0dam.com/blog/react/react-hooks/make-hooks-with-think)
+9. [NextJS에선 React-Query를 어떻게 사용하는게 맞을까?](https://velog.io/@minsang9735/NextJS%EC%97%90%EC%84%A0-React-Query%EB%A5%BC-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%82%AC%EC%9A%A9%ED%95%98%EB%8A%94%EA%B2%8C-%EB%A7%9E%EC%9D%84%EA%B9%8C)
 
 ### TypeScript
 
