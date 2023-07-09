@@ -22,6 +22,7 @@
 1. [타입스크립트 폼의 이벤트 처리](http://yoonbumtae.com/?p=4440)
 2. [우형 타입스크립트 컨벤션 enum 관련](https://techblog.woowahan.com/9804/)
 3. [enum 관련](https://mugglim.tistory.com/9)
+4. [null을 다루는 기술](https://velog.io/@zeppel1n/Safety-Type-Zone-1.-null-%EC%9D%84-%EB%8B%A4%EB%A3%A8%EB%8A%94-%EA%B8%B0%EC%88%A0)
 
 ### JavaScript
 
@@ -36,3 +37,4 @@
 2. [대학생 연합 동이리 및 교육 프로그램 정보](https://velog.io/@prayme/%EB%8C%80%ED%95%99%EC%83%9D-IT-%EC%97%B0%ED%95%A9-%EB%8F%99%EC%95%84%EB%A6%AC-%EC%A0%95%EB%B3%B4-%EB%AA%A8%EC%9D%8C-feat.-RUFree-%EC%A3%BC%EB%8B%88%EC%96%B4)
 3. [개발자의 성장 가능성은 어떻게 측정 가능한가?](https://euncho.medium.com/%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%98-%EC%84%B1%EC%9E%A5-%EA%B0%80%EB%8A%A5%EC%84%B1%EC%9D%80-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%B8%A1%EC%A0%95-%EA%B0%80%EB%8A%A5%ED%95%9C%EA%B0%80-238dd3f0f33)
 4. [프론트엔드 취준 기록](https://velog.io/@khy226/2022-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EC%B7%A8%EC%A4%80-%EA%B8%B0%EB%A1%9D)
+5. [이력 및 이직](https://velog.io/@lingodingo/%ED%86%A0%EC%8A%A4%EB%A5%BC-%EB%96%A0%EB%82%98%EB%A9%B4%EC%84%9C)
