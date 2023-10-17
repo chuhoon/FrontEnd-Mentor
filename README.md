@@ -33,6 +33,10 @@
 3. [자바스크립트 클린코드 작성법](https://seaweedisland.tistory.com/215)
 4. [npm, yarn, pnpm 비교해보기](https://yceffort.kr/2022/05/npm-vs-yarn-vs-pnpm)
 
+### 프론트엔드
+
+1. [무조건 스켈레톤 화면을 보여주는게 사용자 경험에 도움이 될까?](https://tech.kakaopay.com/post/skeleton-ui-idea/)
+
 ### ETC
 
 1. [VSCode 200% 활용하기](https://velog.io/@dbwjd5864/VSCode-200-%ED%99%9C%EC%9A%A9%ED%95%98%EA%B8%B0)
