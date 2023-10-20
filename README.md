@@ -18,6 +18,7 @@
 9. [NextJS에선 React-Query를 어떻게 사용하는게 맞을까?](https://velog.io/@minsang9735/NextJS%EC%97%90%EC%84%A0-React-Query%EB%A5%BC-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%82%AC%EC%9A%A9%ED%95%98%EB%8A%94%EA%B2%8C-%EB%A7%9E%EC%9D%84%EA%B9%8C)
 10. [Reflow Repaint를 알아보자](https://velog.io/@young_pallete/Reflow-Repaint%EC%9D%84-%EC%95%8C%EC%95%84%EB%B3%B4%EC%9E%90)
 11. [useEffect는 종종 페인트 이전에 동작](https://velog.io/@lky5697/unintentional-layout-effect)
+12. [리액트 렌더링 및 최적화](https://www.nextree.io/riaegteu-rendeoring-mic-coejeoghwa/)
 
 ### TypeScript
 
