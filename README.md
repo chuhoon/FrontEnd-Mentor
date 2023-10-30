@@ -20,6 +20,7 @@
 11. [useEffect는 종종 페인트 이전에 동작](https://velog.io/@lky5697/unintentional-layout-effect)
 12. [리액트 렌더링 및 최적화](https://www.nextree.io/riaegteu-rendeoring-mic-coejeoghwa/)
 13. [children props](https://velog.io/@2ast/React-children-prop%EC%97%90-%EB%8C%80%ED%95%9C-%EA%B3%A0%EC%B0%B0feat.-%EB%A0%8C%EB%8D%94%EB%A7%81-%EC%B5%9C%EC%A0%81%ED%99%94)
+14. [리액트 쿼리와 함께 concurrent ui 도입하는 방법](https://tech.kakaopay.com/post/react-query-2/)
 
 ### TypeScript
 
