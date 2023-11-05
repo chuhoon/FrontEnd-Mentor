@@ -36,6 +36,7 @@
 2. [Lodash 관련](https://inpa.tistory.com/entry/LODASH-%F0%9F%93%9A-Lodash-vs-ES6-%EC%84%A4%EC%B9%98-%EC%9B%90%EB%A6%AC#lodash_vs_es6_%EB%B9%84%EA%B5%90)
 3. [자바스크립트 클린코드 작성법](https://seaweedisland.tistory.com/215)
 4. [npm, yarn, pnpm 비교해보기](https://yceffort.kr/2022/05/npm-vs-yarn-vs-pnpm)
+5. [그 async 꼭 써야하니?](https://velog.io/@greencloud/%EA%B7%B8-async-%EA%BC%AD-%EC%8D%A8%EC%95%BC-%ED%95%98%EB%8B%88)
 
 ### 프론트엔드
 
