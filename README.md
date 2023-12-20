@@ -4,6 +4,7 @@
 
 1. [프론트엔드 클린코드 조건문 지양](https://www.zigae.com/avoid-conditions)
 2. [촉촉한 코드, 건조한 코드](https://velog.io/@gomjellie/The-Wet-Codebase)
+3. [복잡한 네이밍 회피](https://www.zigae.com/avoid-hard-naming/)
 
 ### React
 
