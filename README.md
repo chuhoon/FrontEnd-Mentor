@@ -46,6 +46,7 @@
 ### 프론트엔드
 
 1. [무조건 스켈레톤 화면을 보여주는게 사용자 경험에 도움이 될까?](https://tech.kakaopay.com/post/skeleton-ui-idea/)
+2. [기술블로그 모음](https://zero-base.co.kr/event/media_insight_contents_FE_frontend_blog)
 
 ### ETC
 
